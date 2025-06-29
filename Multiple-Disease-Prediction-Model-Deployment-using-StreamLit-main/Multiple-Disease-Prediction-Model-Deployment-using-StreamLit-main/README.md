@@ -73,15 +73,5 @@ The machine learning models used in this web app are trained on publicly availab
 
 - Breast Cancer Model: This model predicts whether a breast mass is malignant or benign using features derived from breast cytology.
 
-## Contributing
-
-*Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.*
-
-## License
-
-*This project is licensed under the [MIT License](LICENSE).*
-
----
-
 
 
